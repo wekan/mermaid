@@ -1,4 +1,4 @@
-const { Generator } = require('jison');
+const { Generator } = require('@wekanteam/jison');
 const validate = require('schema-utils');
 
 const schema = {

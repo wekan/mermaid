@@ -1,4 +1,4 @@
-const { Generator } = require('jison');
+const { Generator } = require('@wekanteam/jison');
 
 module.exports = {
   process(sourceText, sourcePath, options) {
